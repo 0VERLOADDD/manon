@@ -1,4 +1,5 @@
-<img width="1000" height="1000" alt="Untitled1-1" src="https://github.com/user-attachments/assets/c278f4f6-8239-41d0-ab9e-cc590ffc60cb" />
+<img width="1000" height="1000" alt="Untitled1_20260111220607" src="https://github.com/user-attachments/assets/f191cbcb-8d3f-45f0-821b-639b463d2888" />
+
 
 <p align="center">
 <a href="https://sweetestyui.straw.page/">straw</a> • <a href="https://en.pronouns.page/@yuicest">prn</a> • <a href="https://yuiiangel.atabook.org">ata</a>
