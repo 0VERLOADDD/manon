@@ -1,4 +1,5 @@
-<img width="800" height="800" alt="manonnnn" src="https://github.com/user-attachments/assets/608f569d-e8bd-4732-bfdb-7b1a8108423d" />
+<img width="1000" height="1000" alt="Untitled1-1" src="https://github.com/user-attachments/assets/c278f4f6-8239-41d0-ab9e-cc590ffc60cb" />
+
 <p align="center">
-<a href="https://sweetestyui.straw.page/">sign my straw ! <3</a>
+<a href="https://sweetestyui.straw.page/">straw</a>
 </p>
