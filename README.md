@@ -5,5 +5,5 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/0VERLOADDD/manon"><img alt="Cakes" src="https://img.shields.io/badge/Cakes-0-D96669.svg"></a>
+<a href="https://github.com/0VERLOADDD/manon"><img alt="‎𐂐( 🍰 )𓇋" src="https://img.shields.io/badge/‎𐂐( 🍰 )𓇋-0-D96669.svg"></a>
 </p>
