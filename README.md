@@ -5,5 +5,5 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/0VERLOADDD/manon"><img alt="Cakes" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F0VERLOADDD%2Fmanon&title=cakes&title_bg=%23363636&title_fg=%23ffffff&count_bg=%23D96669&count_fg=%23ffffff"></a>
+<a href="https://github.com/0VERLOADDD/manon"><img alt="Cakes" src="https://img.shields.io/badge/Cakes-0-D96669.svg"></a>
 </p>
